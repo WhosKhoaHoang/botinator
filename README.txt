@@ -1,4 +1,4 @@
-NOTE: To run the chatbot from main.py, we recommend using the Spyder IDE (included in the Anaconda python distribution [https://docs.continuum.io/anaconda/install]). The ArnoldBot.py module can be run to speak with ArnoldBot directly, but users must have the NLTK libraries installed (http://www.nltk.org/install.html).
+NOTE: To run the chatbot from main.py, we recommend using the Spyder IDE (included in the Anaconda python distribution https://docs.continuum.io/anaconda/install). The ArnoldBot.py module can be run to speak with ArnoldBot directly, but users must have the NLTK libraries installed (http://www.nltk.org/install.html).
 
 *** .py files ***
 . ArnoldBot: The class that represents ArnoldBot. This module can be run to speak directly with ArnoldBot.
